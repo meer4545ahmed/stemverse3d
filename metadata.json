@@ -1,0 +1,6 @@
+{
+  "name": "STEMVERSE 3D",
+  "description": "Explore Science. Experience Knowledge. Interactive 3D Virtual STEM Laboratory for Physics, Chemistry, Biology, and Mathematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

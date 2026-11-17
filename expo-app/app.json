@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "VidyaVerse",
+    "slug": "vidyaverse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "vidyaverse",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#06070B",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vidyaverse.app"
+    },
+    "android": {
+      "package": "com.vidyaverse.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#06070B"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

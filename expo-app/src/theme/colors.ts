@@ -1,0 +1,33 @@
+export const THEME = {
+  bgPrimary: '#06070B',
+  bgSecondary: '#0B0D13',
+  bgCard: '#11141D',
+  bgElevated: '#161A26',
+  border: '#222736',
+  borderStrong: '#2D3448',
+  borderPurple: '#3B2F63',
+  accentCyan: '#38BDF8',
+  accentCyanSoft: 'rgba(56, 189, 248, 0.12)',
+  green: '#10B981',
+  greenLight: '#34D399',
+  greenSoft: 'rgba(16, 185, 129, 0.12)',
+  purple: '#8B5CF6',
+  purpleSoft: 'rgba(139, 92, 246, 0.14)',
+  textPrimary: '#F4F6FA',
+  textSecondary: '#9CA3B5',
+  textMuted: '#64748B',
+  amber: '#F59E0B',
+  rose: '#EF4444',
+  ctaBg: '#F4F6FA',
+  ctaText: '#06070B',
+} as const;
+
+export const FONTS = {
+  displayBold: 'Syne_700Bold',
+  displayExtra: 'Syne_800ExtraBold',
+  bodyMedium: 'Manrope_500Medium',
+  bodySemi: 'Manrope_600SemiBold',
+  bodyBold: 'Manrope_700Bold',
+  monoSemi: 'IBMPlexMono_600SemiBold',
+  monoBold: 'IBMPlexMono_700Bold',
+} as const;
